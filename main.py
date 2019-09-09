@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Generate random values
 # x = np.random.random_integers(1000, 1700, 100)
 # y = np.random.random_integers(1000, 1700, 100)
-dataset = pd.read_csv("dataset\\linear_dataset.csv", sep=',', header=None).to_numpy()
+dataset = pd.read_csv("linear_dataset.csv", sep=',', header=None).to_numpy()
 x = dataset[..., 0:1]
 y = dataset[..., 1:2]
 
