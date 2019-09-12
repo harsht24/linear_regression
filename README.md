@@ -14,7 +14,7 @@ Let X be the independent variable and Y be the dependent variable. We will defin
 A loss function in machine learning is simply a measure of how different the predicted values are from the actual values.
 Now, to minimize the loss function we use the least squares method. Thus, we can determine the values of slope(m) and intercept(c).
 
-<img src="content\least_sqaure_formula.png" alt="least-squares-formula">
+<img src="content\least_square_formula.png" alt="least-squares-formula">
 
 ### Dataset
 
