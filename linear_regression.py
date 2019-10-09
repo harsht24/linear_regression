@@ -2,8 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# Reading data
-dataset = pd.read_csv("linear_dataset.csv", header=None).to_numpy()
+dataset = pd.read_csv("content/linear_dataset.csv", header=None).to_numpy()
 # print(dataset.shape)
 # print(dataset.head())
 
